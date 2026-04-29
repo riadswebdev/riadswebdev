@@ -119,6 +119,7 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 ## 📫 Contact Me
 
 - 📧 Email: mdriadshekh586@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/riad-shekh)
 - 💻 GitHub: [github.com/djriad157764-creator](https://github.com/djriad157764-creator)
 - 🌐 Portfolio: [https://your-portfolio-link.com ](https://personal-portfolio-five-theta-65.vercel.app/) 
 
