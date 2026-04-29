@@ -58,7 +58,7 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 ---
 
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 📌 Project One ([Portfolio](https://personal-portfolio-five-theta-65.vercel.app/))
 🚀 A modern, interactive, and highly performant personal portfolio web application. <br/>
