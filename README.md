@@ -6,7 +6,7 @@
 ![Banner](https://i.ibb.co.com/5X4sD47X/riad.png)
 
 <!-- Profile Picture (Semi-formal but not too casual) -->
-<img src="https://i.ibb.co.com/5X4sD47X/riad.png" width="140" align="right" />
+<img src="https://i.ibb.co.com/5X4sD47X/riad.png" width="140" align="right" className="rounded-full" />
 
 📍 Dhaka, Bangladesh | 📧 mdriadshekh586@gmail.com
 
