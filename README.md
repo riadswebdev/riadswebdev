@@ -42,8 +42,8 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=djriad157764-creator)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djriad157764-creator&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=riadswebdev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riadswebdev&layout=compact)
 
 ---
 
