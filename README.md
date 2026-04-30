@@ -6,7 +6,7 @@
 ![Banner](https://i.ibb.co.com/5X4sD47X/riad.png)
 
 <!-- Profile Picture (Semi-formal but not too casual) -->
-<img src="https://your-image-link.com/profile-pic.jpg" width="140" align="right" />
+<img src="https://i.ibb.co.com/5X4sD47X/riad.png" width="140" align="right" />
 
 📍 Dhaka, Bangladesh | 📧 mdriadshekh586@gmail.com
 
@@ -50,8 +50,6 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 ## 🔗 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/riad-shekh)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black)](https://snapchat.com/add/yourusername)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/djriad157764-creator)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white)](https://personal-portfolio-five-theta-65.vercel.app/)
 
