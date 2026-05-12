@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dj Riad
+# 👋 Hi, I'm Md Riad Shekh
 
 🚀 Frontend Developer | React.js | Next.js | UI Enthusiast
 
