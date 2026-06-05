@@ -3,7 +3,7 @@
 🚀 Frontend Developer | React.js | Next.js | UI Enthusiast
 
 <!-- Banner Image -->
-![Banner](https://ik.imagekit.io/i455l48ls/profile.png)
+![Banner](https://ik.imagekit.io/i455l48ls/profile%20(1).png)
 
 <!-- Profile Picture (Semi-formal but not too casual) -->
 <img src="https://i.ibb.co.com/5X4sD47X/riad.png" width="140" align="right" className="rounded-full" />
