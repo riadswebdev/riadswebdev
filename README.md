@@ -1,9 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=MD%20RIAD%20SHEKH&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner"/>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Md+Riad+Shekh;Junior+Frontend+Developer+%7C+React+%26+Next.js;Building+Full-Stack+Web+Apps+with+Modern+Tools)](https://git.io/typing-svg)
 
 [![Junior Frontend Developer](https://img.shields.io/badge/Junior%20Frontend%20Developer-Open%20to%20Work-22C55E?style=for-the-badge)](mailto:riadswebdev@gmail.com)
 [![Location](https://img.shields.io/badge/Monipur%2C%20Gazipur%2C%20Bangladesh-0EA5E9?style=for-the-badge)](https://maps.google.com/?q=Monipur,Gazipur,Bangladesh)
+[![Phone](https://img.shields.io/badge/Phone-%2B8801314674108-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801314674108)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-F97316?style=for-the-badge)](https://personal-portfolio-five-theta-65.vercel.app/)
 
 ![Frontend • React • Next.js • Tailwind](https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-3B82F6?style=for-the-badge)
@@ -15,15 +18,8 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p><em>I build modern web experiences with code</em></p>
-      <p>Frontend Developer passionate about building modern, responsive, and user-friendly web applications with <strong>React</strong> and <strong>Next.js</strong>. I craft pixel-perfect interfaces using Tailwind CSS, GSAP, and Framer Motion — and I'm familiar with full-stack development using <strong>Node.js</strong>, <strong>Express</strong>, <strong>MongoDB</strong>, and REST APIs.</p>
-      <p>I work with AI-assisted workflows (<strong>ChatGPT</strong>, <strong>Cursor</strong>, <strong>GitHub Copilot</strong>) to ship clean, production-ready products faster.</p>
-      <ul>
-        <li>Clean, component-driven architecture with attention to UI detail</li>
-        <li>Responsive design across mobile, tablet, and desktop</li>
-        <li>Strong Git workflow and deployment experience (Vercel, Render)</li>
-      </ul>
-      <p>Currently seeking <strong>Junior Frontend Developer</strong> opportunities to contribute to innovative product teams.</p>
+      <p>Frontend Developer from Bangladesh building responsive web apps with <strong>React</strong> and <strong>Next.js</strong>. I focus on clean UI, Tailwind CSS, and modern animations with GSAP and Framer Motion.</p>
+      <p>Currently deepening <strong>TypeScript</strong> and working on a tourism booking platform. Open to <strong>Junior Frontend Developer</strong> roles.</p>
     </td>
     <td align="center" width="35%">
       <img src="https://ik.imagekit.io/i455l48ls/profile%20(1).png" width="180" alt="Md Riad Shekh" style="border-radius: 50%; border: 4px solid #3B82F6; padding: 4px;" />
@@ -54,9 +50,9 @@
 
 <h2 align="left">Currently</h2>
 
-- Building a **Tourism Booking Platform** with Next.js 16 & App Router
-- Deepening **TypeScript** and mastering advanced React & Next.js patterns
-- Improving **GSAP, Framer Motion** skills and web performance optimization
+- I am exploring **Next.js 16** and advanced App Router patterns
+- I'm working on a **Tourism Booking Platform** with Next.js
+- Deepening **TypeScript** and improving **GSAP, Framer Motion** skills
 - Contributing to **open-source React/Next.js** projects when I can
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%" alt=""/>
@@ -107,9 +103,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%" alt=""/>
 
-<h2 align="left">GitHub Activity</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riadswebdev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadswebdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riadswebdev&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 
@@ -130,6 +129,7 @@ I'm open to **Junior Frontend Developer** roles and exciting collaborations.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-riadswebdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riadswebdev@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B8801314674108-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801314674108)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riad-shekh)
 [![GitHub](https://img.shields.io/badge/GitHub-riadswebdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riadswebdev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-five-theta-65.vercel.app/)
