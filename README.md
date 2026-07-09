@@ -135,7 +135,6 @@ I'm open to **Junior Frontend Developer** roles and exciting collaborations.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-five-theta-65.vercel.app/)
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%" alt=""/>
 
 <div align="center">
