@@ -99,7 +99,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riadswebdev/riadswebdev/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/riadswebdev/riadswebdev/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riadswebdev&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%" alt=""/>
