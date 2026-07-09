@@ -72,16 +72,27 @@
 ![Backend](https://skillicons.dev/icons?i=nodejs,mongodb)
 
 ### Tools & AI
-
 ![Tools](https://skillicons.dev/icons?i=git,github,vite,figma)
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor Editor](https://img.shields.io/badge/Cursor_Editor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<br>
+
+**AI Tools & Assistants:**
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&labelColor=74aa9c&color=74aa9c" height="28" style="border-radius: 8px;"/>
+
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white&labelColor=4D6BFE&color=4D6BFE" height="28" style="border-radius: 8px;"/>
+
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white&labelColor=8E75B2&color=8E75B2" height="28" style="border-radius: 8px;"/>
+
+<img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=D97706&color=D97706" height="28" style="border-radius: 8px;"/>
+
+<img src="https://img.shields.io/badge/Cursor_Editor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=000000&color=000000" height="28" style="border-radius: 8px;"/>
+
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000" height="28" style="border-radius: 8px;"/>
+
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4&color=4285F4" height="28" style="border-radius: 8px;"/>
+
+<br><br>
 
 | Frontend | Backend & Data | Tools & AI |
 |----------|---------------|------------|
