@@ -1,111 +1,144 @@
-# 👋 Hi, I'm Md Riad Shekh
+<div align="center">
 
-🚀 Frontend Developer | React.js | Next.js | UI Enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Md+Riad+Shekh;Frontend+Developer+%7C+React+%26+Next.js;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
-<!-- Banner Image -->
-![Banner](https://ik.imagekit.io/i455l48ls/profile%20(1).png)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Frontend%20Roles-22C55E?style=for-the-badge)](mailto:mdriadshekh586@gmail.com)
+[![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-0EA5E9?style=for-the-badge)](https://maps.google.com/?q=Dhaka,Bangladesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-F97316?style=for-the-badge)](https://personal-portfolio-five-theta-65.vercel.app/)
 
-<!-- Profile Picture (Semi-formal but not too casual) -->
-<img src="https://ik.imagekit.io/i455l48ls/profile%20(1).png" width="140" align="right" className="rounded-full" />
+</div>
 
-📍 Dhaka, Bangladesh | 📧 mdriadshekh586@gmail.com
+<h2 align="left">About Me</h2>
 
----
-
-## 📖 About Me
-
-I'm a passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications. I love turning ideas into clean UI designs with smooth animations and performance optimization.
-
----
-
-## 🔥 Current Activities
-
-- 🔭 I’m currently working on a **Tourism Booking Website** with Next.js  
-- 🌱 I’m exploring **GSAP & Framer Motion** for advanced animations  
-- 🤝 Looking to collaborate on open-source React/Next.js projects  
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <p>Frontend Developer passionate about crafting pixel-perfect, performant web experiences with <strong>React</strong> and <strong>Next.js</strong>. I specialize in modern UI development with Tailwind CSS, GSAP animations, and AI-integrated features — turning ideas into clean, interactive products deployed to production.</p>
+      <p>Currently seeking <strong>Junior Frontend Developer</strong> opportunities to contribute to innovative product teams.</p>
+    </td>
+    <td align="center" width="35%">
+      <img src="https://ik.imagekit.io/i455l48ls/profile%20(1).png" width="180" alt="Md Riad Shekh" style="border-radius: 50%; border: 4px solid #3B82F6; padding: 4px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚡ Tech Stack (with Icons)
+## Currently
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?logo=daisyui&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+- Building a **Tourism Booking Platform** with Next.js 16 & App Router
+- Deepening skills in **GSAP, Framer Motion** & performance optimization
+- Open to collaborating on **open-source React/Next.js** projects
 
 ---
 
-## 📊 GitHub Stats
+## What I Bring
 
-![GitHub Streak](https://streak-stats.demolab.com?user=riadswebdev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riadswebdev&layout=compact)
-
----
-
-## 🔗 Social Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/riad-shekh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/djriad157764-creator)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white)](https://personal-portfolio-five-theta-65.vercel.app/)
+- Clean, component-driven architecture
+- Attention to UI detail & responsive design
+- Fast learner with real deployed projects
+- Strong Git workflow & deployment experience (Vercel)
 
 ---
 
+## Skills
 
-## 📂 Projects
+### Frontend
 
-### 📌 Project One ([Portfolio](https://personal-portfolio-five-theta-65.vercel.app/))
-🚀 A modern, interactive, and highly performant personal portfolio web application. <br/>
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind)
 
-🔗 [Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/) <br/>
+### Tools & Others
 
-🛠️ Technology: <br/>
-* Framework: Next.js 16 (App Router) <br/>
-* Library: React 19 <br/>
-* Styling: Tailwind CSS 4<br/>
-* Animations: GSAP & @gsap/react <br/>
-* Smooth Scrolling: Lenis 
+![Tools](https://skillicons.dev/icons?i=git,github,vite,figma)
 
----
-
-### 📌 Project Two ([Book-Vibe](https://books-vibe-ten.vercel.app/))
- 🚀 Book Vibe is an engaging and user-friendly web application tailored for book lovers! It allows users to explore a vast collection of books, view detailed information, rate their favorites, and curate personalized reading lists (like "Read" and "Wishlist"). The platform goes a step further by integrating interactive charts to visualize your reading progress and features an intelligent AI Chatbot powered by Google Gemini to assist you with book recommendations and queries. <br/>
- 
-🔗 Book-Vibe :  [Project link](https://books-vibe-ten.vercel.app/) <br/>
-
-🛠️ Technology: 
-* Frontend: React.js (v19)
-* Build Tool: Vite
-* Styling: Tailwind CSS & DaisyUI
-* Routing: React Router v7
-* Data Visualization: Recharts
-* AI Integration: Google Generative AI (Gemini)
-* Notifications: React Hot Toast
-* Icons & Markdown: React Icons, React Markdown
-
+| Category | Technologies |
+|----------|-------------|
+| Frameworks | React 19, Next.js 16 (App Router) |
+| Styling | Tailwind CSS 4, DaisyUI |
+| Animation | GSAP, Framer Motion, Lenis |
+| AI / Tools | Google Gemini API, Vite, Git |
 
 ---
 
-### 📌 Project Three ([Fitness Landing Page](https://fitness-landing-page-chi-eight.vercel.app/)) 
-🚀 A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction. <br/>
+## Featured Projects
 
-🔗 Fitness Landing Page : [Project Link](https://fitness-landing-page-chi-eight.vercel.app/) <br/>
+### Personal Portfolio — Interactive Developer Showcase
 
-🛠️ Technology:
-* HTML5
-* CSS3
-* Tailwind
-* CSS
-* DaisyUI
-* React.js
+<a href="https://personal-portfolio-five-theta-65.vercel.app/"><img src="https://opengraph.githubassets.com/1/riadswebdev/Personal-Portfolio" width="100%" alt="Personal Portfolio preview"/></a>
+
+| | |
+|:---:|:---:|
+| **Live Demo** | **Source Code** |
+| [![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-five-theta-65.vercel.app/) | [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riadswebdev/Personal-Portfolio) |
+
+**Key Features:**
+- Smooth scroll animations powered by GSAP & Lenis
+- Fully responsive layout with Tailwind CSS 4
+- Production-ready Next.js 16 App Router architecture
+
+**Stack:** Next.js 16 · React 19 · Tailwind CSS 4 · GSAP · Lenis
 
 ---
 
-## 📈 Goals
+### Book-Vibe — AI-Powered Reading Platform
+
+<a href="https://books-vibe-ten.vercel.app/"><img src="https://opengraph.githubassets.com/1/riadswebdev/Books-Vibe" width="100%" alt="Book-Vibe preview"/></a>
+
+| | |
+|:---:|:---:|
+| **Live Demo** | **Source Code** |
+| [![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://books-vibe-ten.vercel.app/) | [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riadswebdev/Books-Vibe) |
+
+**Key Features:**
+- AI book recommendations via Google Gemini
+- Interactive reading analytics with Recharts
+- Personalized wishlist & reading lists
+
+**Stack:** React 19 · Vite · Tailwind · DaisyUI · Gemini API
+
+---
+
+### Fitness Landing Page — Modern Responsive UI
+
+<a href="https://fitness-landing-page-chi-eight.vercel.app/"><img src="https://opengraph.githubassets.com/1/riadswebdev/Fitness-Landing-page" width="100%" alt="Fitness Landing Page preview"/></a>
+
+| | |
+|:---:|:---:|
+| **Live Demo** | **Source Code** |
+| [![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://fitness-landing-page-chi-eight.vercel.app/) | [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riadswebdev/Fitness-Landing-page) |
+
+**Key Features:**
+- Fully responsive multi-section landing page
+- Clean fitness-focused UI with workout & team sections
+- Component-based React architecture
+
+**Stack:** React · Tailwind CSS · DaisyUI
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riadswebdev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riadswebdev&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riadswebdev&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## Education
+
+**Bachelor's in Computer Science** — *[Your University Name]*  
+*[Start Year] – Present* · Relevant coursework: Web Development, Data Structures, Software Engineering
+
+> Update the university name and year range above to match your profile.
+
+---
+
+## Goals
 
 - Master Advanced React & Next.js
 - Improve UI/UX and animation skills
@@ -114,19 +147,25 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 
 ---
 
-## 📫 Contact Me
+## Let's Connect
 
-- 📧 Email: mdriadshekh586@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/riad-shekh)
-- 💻 GitHub: [github.com/djriad157764-creator](https://github.com/djriad157764-creator)
-- 🌐 Portfolio: [https://your-portfolio-link.com ](https://personal-portfolio-five-theta-65.vercel.app/) 
+I'm open to **Junior Frontend Developer** roles and exciting collaborations.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mdriadshekh586@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdriadshekh586@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riad-shekh)
+[![GitHub](https://img.shields.io/badge/GitHub-riadswebdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riadswebdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-five-theta-65.vercel.app/)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
-I love turning ideas into clean, modern, and interactive web experiences.
+<div align="center">
 
----
+Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=riadswebdev&style=for-the-badge&color=3B82F6" alt="Profile views"/>
 
+</div>
