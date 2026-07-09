@@ -75,7 +75,6 @@
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vite,figma)
 
-**AI Tools & Assistants:**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
