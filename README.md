@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p><em>কোড দিয়ে আধুনিক ওয়েব তৈরি করি</em></p>
+      <p><em>I build modern web experiences with code</em></p>
       <p>Frontend Developer passionate about building modern, responsive, and user-friendly web applications with <strong>React</strong> and <strong>Next.js</strong>. I craft pixel-perfect interfaces using Tailwind CSS, GSAP, and Framer Motion — and I'm familiar with full-stack development using <strong>Node.js</strong>, <strong>Express</strong>, <strong>MongoDB</strong>, and REST APIs.</p>
       <p>I work with AI-assisted workflows (<strong>ChatGPT</strong>, <strong>Cursor</strong>, <strong>GitHub Copilot</strong>) to ship clean, production-ready products faster.</p>
       <ul>
@@ -94,7 +94,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riadswebdev&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 
-![Snake animation](https://github.com/riadswebdev/riadswebdev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riadswebdev/riadswebdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riadswebdev/riadswebdev/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/riadswebdev/riadswebdev/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
